@@ -4,8 +4,8 @@ This is a simple Hangman game developed using **Flutter**. The game features two
 
 ## 🎮 Features
 
-- **Normal Difficulty** – The player has a limited number of incorrect guesses.
-- **Hard Difficulty** – The player has fewer attempts, making the game more challenging.
+- **Normal Difficulty** 
+- **Hard Difficulty** 
 - Fun and interactive user interface.
 - Available on **Android** and **PC**.
 
