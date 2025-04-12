@@ -51,7 +51,7 @@ class MyLayout extends StatelessWidget {
                   );
                 },
                 style: ElevatedButton.styleFrom(
-                  primary: Colors.teal, //
+                  backgroundColor: Colors.teal, // 替代 primary
                 ),
                 child: Text(
                   "Start Hangman Game [Normal]",
@@ -70,7 +70,7 @@ class MyLayout extends StatelessWidget {
                   );
                 },
                 style: ElevatedButton.styleFrom(
-                  primary: Colors.teal, //
+                  backgroundColor: Colors.teal, // 替代 primary
                 ),
                 child: Text(
                   "Start Hangman Game [Hard]",
